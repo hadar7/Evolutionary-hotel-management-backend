@@ -1,0 +1,4 @@
+unit\SpringBootHelloWorldTests.class
+integration\SpringBootHelloWorldTests.class
+unit\UserTests.class
+utils\BuildDB.class
